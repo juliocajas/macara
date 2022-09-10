@@ -1,0 +1,182 @@
+#EXTM3U list-name="Canales Latinos ðŸ˜ " list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6PPyvXN/id.png" tvg-group="CIENCIA Y CULTURA", ID
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/960.ts
+
+click
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/942.ts
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/50ca0725709b4cba24f74ea7c4c3d1ff.png" group-title="Entretenimiento",|NATIONAL GEOGRAPHIC
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/959.ts
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/1c5529863ad20b1601c8e4abe7fc1b7f.png" group-title="RELIGION",DISCOVERI WORD
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/966.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jBMLyH/Espnpr.png" tvg-group="DEPORTES", ESPN
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/974.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jBMLyH/Espnpr.png" tvg-group="DEPORTES", ESPN 2
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/975.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9wf6FXv/ar-fox-sports-3-m.png" tvg-group="DEPORTES", FOX SPORTS 2
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/977.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" tvg-group="DEPORTES", ESPN 
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/978.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" tvg-group="CINE Y SERIES", GOLDEN PLUS
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/984.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" tvg-group="CINE Y SERIES", GOLDEN EDGE
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/986.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BrNnDFQ/cinemax.png" tvg-group="CINE Y SERIES", CINEMAX
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/988.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lv37ZBM/amc.png" tvg-group="CINE Y SERIES", AMC
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/991.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TrgDzmc/int-a3series.png" tvg-group="CINE Y SERIES", SERIE A3
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1004.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" tvg-group="CINE Y SERIES", FX
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1006.ts
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/f50717c5af9f273fae54e25c2b855673.png" group-title="Entretenimiento",|Multicinema
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1009.ts
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1018.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrQZVn0/tbs.png" tvg-group="CINE Y SERIES", TBSTBS
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1021.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BnBymgY/cinecanal.png" tvg-group="CINE Y SERIES", CINECANAL
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1025.ts
+
+
+#EXTINF:-1 tvg-id="I170.74016.schedulesdirect.org" tvg-name="DE PELICULA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png" group-title="CINEMA PREMIUM",DE PELICULA
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1026.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z2LQWrH/universal.png" tvg-group="CINE Y SERIES", UNIVERSAL
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1029.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="Entretenimiento" ,|STAR CHANEL
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1031.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YkRGmdb/space.png" tvg-group="CINE Y SERIES", SPACE
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1032.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/By7GRw7/axn.png" tvg-group="CINE Y SERIES", AXN
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1034.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KNr815G/tntseries.png" tvg-group="CINE Y SERIES", TNT SERIES
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1035.ts
+
+TELELENOVELAS
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1037.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" tvg-group="CINE Y SERIES", WARNER
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1038.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Y7MY0J/hbofamily.png" tvg-group="CINE Y SERIES",  HBO FAMILIA
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1062.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZmZZsw/hbo.png" tvg-group="CINE Y SERIES", HBO
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1063.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" tvg-group="CINE Y SERIES", HBO XTREME
+https://vsd82.mycdn.me/hls/2414358039111.m3u8/sig/-jgzqid_pWo/expires/1662761013120/srcIp/190.171.83.100/clientType/0/srcAg/CHROME_ANDROID/mid/5468881755719/video.m3u8?p
+
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/1fe777ac276f5f22660a12eb97910b36.png" group-title="POLAND",POLAND | HBO
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1063.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDfNp51/dtvcl.png" tvg-group="DEPORTES", DIRECTV SPORTS EC
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1104.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GM2dStS/ecotel.jpg" tvg-group="Entretenimiento", TV 14
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1106.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png" tvg-group="DEPORTES", TUDN
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1107.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" tvg-group="DEPORTES", ESPN EXTRA
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1108.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/71LY9Sq/tntsports.png" tvg-group="DEPORTES", TNT SPORTS
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1109.ts
+
+GOL TV#EXTINF:-1 tvg-logo="https://i.ibb.co/khzsDTN/goltv.jpg" tvg-group="DEPORTES", GOLTV ECUADOR
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1110.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HdKSxVB/5bb7948502f9a1d774cf5ef8b47b7042.jpg" tvg-group="ECUADOR", OROMAR
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9wf6FXv/ar-fox-sports-3-m.png" tvg-group="DEPORTES", FOX SPORT PREMIUM
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1114.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" tvg-group="DEPORTES", DIRECTV SPORT ECUADOR
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1122.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9rMZ9xg/Dtvplus.png" tvg-group="DEPORTES", DIRECTV SPORTS
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1123.ts
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/cb70261ee10d2dd21cb9e8c3b199b6d4.png" group-title="DEPORTES FULL HD",DEPORTES FULL HD | IZZI AFICIONADOS
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1124.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" tvg-group="CINE Y SERIES", TELEMUNDO
+http://198.255.5.106:25461/live/gambauserdirect/xsndjufhdhddjskdsjd/1126.ts
+
+#EXTINF:-1 tvg-logo="https://grupocity.net.ar/wp-content/uploads/2022/08/cab1.fw_.jpg" tvg-group="ECUADOR", CIUDAD MAGICA TV
+https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden
+https://linear-406.frequency.stream/406/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Edge 
+https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/71e91b0bcfa59b9a9c252a1ad00b4c4e.png" group-title="Entretenimiento",| RTS 
+https://youvideostreaming.club/hls/ecutv2.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", PASAJE
+https://canal.pasajetv.com/PasajeTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GM2dStS/ecotel.jpg" tvg-group="Entretenimiento", ECOTEL
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",TELESISTEMA
+http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1070665175.m3u8
+
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/aadc10d9bdd50458562b07fb839dae3c.png" group-title="Entretenimiento",| TV PURUWA
+https://mediacp.us:8081/8054/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",ECUAESTEREO
+https://video.misistemareseller.com/ecuastereotv/ecuastereotv/chunklist_w1639083648.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ng9CcxY/cn.png" tvg-group="INFANTILES", CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tw7kyMZ/08eb21528400137.png" tvg-group="ECUADOR", ECUAVISA
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?uid=rGuKIAHTzwquIDe1f7PchNxaJEO2D4vc&sid=vHyxOPNgqPsYChR1pmZjsCupuYjp8z2j&pid=EaO3j5ypE0OpnUftfnntj1xcXdsmQeBe&an=screen&at=web-app&av=v5.2.277&ref=https%3A%2F%2Fwww.ecuavisa.com%2F&res=412x232&without_cookies=false&listenerid=&dvrOffset=3600&dnt=true&type=dvr
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HXVgJ5x/Images-q-tbn-ANd9-Gc-QJM4b-Ui-CJl-GPb-BEXk6-Pl-AFWp-L9b-ABq- TH5c-HY-s-E6-h-AQe-H5brt-O6-VSf-AZ8-CIf-Opyfd-Eo-usqp-CAU.jpg" tvg-group="ECUADOR", RTS
+https://d6op0qag07k4o.cloudfront.net/hls/rts.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="Ecuador",TeleAmazonas
+https://tna5.bozztv.com/latacungatv2022/index.m3u8
